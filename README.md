@@ -1,6 +1,6 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Selinay, I am a Computer Engineering student and I am interested in Java Spring.
+I'm Selinay, I am a Computer Engineering student and I am interested in software development.
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
